@@ -95,11 +95,39 @@ Currently contributing to security projects at **@S1b-Team** and actively resear
 ### ⚙️ Development Environment
 <p>
   <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doom_Emacs-%237F5AB6.svg?style=flat&logo=gnu-emacs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tmux-%231BB91F.svg?style=flat&logo=tmux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Zsh-critical?style=flat&logo=gnome-terminal" />
+  <img src="https://img.shields.io/badge/Zellij-%23FFA500.svg?style=flat" />
   <img src="https://img.shields.io/badge/Shell-Fish-blue?style=flat&logo=fish&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Zsh-critical?style=flat&logo=gnome-terminal" />
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-Emacs-7F5AB6?style=flat&logo=gnu-emacs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Starship-%23DD0B78.svg?style=flat" />
+</p>
+
+### 🖥️ Window Manager & Desktop
+<p>
+  <img src="https://img.shields.io/badge/DWM-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rofi-%23FF6600.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Picom-%23000000.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Dunst-%23FFAA00.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Flameshot-%23E74C3C.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Catppuccin-%23CBA6F7.svg?style=flat" />
+</p>
+
+### 💻 Terminal Emulators
+<p>
+  <img src="https://img.shields.io/badge/Kitty-%23000000.svg?style=flat&logo=kitty&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alacritty-%23F46D01.svg?style=flat" />
+</p>
+
+### 🔧 System Utilities
+<p>
+  <img src="https://img.shields.io/badge/Btop-%2300D9FF.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Fastfetch-%23FF6188.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Yazi-%23FF6600.svg?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cava-%2300FF00.svg?style=flat" />
+  <img src="https://img.shields.io/badge/GNU_Stow-%234EAA25.svg?style=flat&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looking_Glass-%23663399.svg?style=flat" />
 </p>
 
 ---
@@ -147,6 +175,7 @@ From **bare-metal installations** to **kernel hardening**, I thrive in the deep 
 > 🔐 Currently building and contributing to internal security tools at **@S1b-Team**  
 > 🛠️ Custom payload generators, enumeration scripts, and reconnaissance automation tools are part of my daily workflow  
 > 🧪 Actively researching new exploitation techniques and publishing findings responsibly  
+> 🐧 Maintaining [dotfiles-s1b](https://github.com/ind4skylivey/dotfiles-s1b) - Complete Arch Linux configuration with DWM, custom themes, and development environment
 
 ---
 
