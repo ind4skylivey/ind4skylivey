@@ -24,6 +24,7 @@
 </p>
 
 ---
+<img src="https://github.com/user-attachments/assets/8a2f34ab-6567-46a9-b064-af81ad1a3e19" alt="image0" width="1024" height="799">
 
 ## 🧠 About Me
 
@@ -31,7 +32,7 @@ Passionate **Ethical Hacker** and **Security Researcher** with a deep focus on *
 
 When I'm not breaking systems ethically, I'm tinkering with **Linux internals**, automating workflows, or competing in CTF challenges. I believe in the philosophy of understanding systems from the ground up—from kernel modules to network protocols.
 
-Currently contributing to security projects at **@S1b-Team** and actively researching new attack vectors and evasion techniques.
+Currently contributing to security projects at [**@S1b-Team**](https://github.com/S1b-Team) actively researching new attack vectors and evasion techniques.
 
 ---
 
