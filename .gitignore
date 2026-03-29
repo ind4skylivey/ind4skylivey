@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+.vim/
+.cache/
+tmp/
+*.log

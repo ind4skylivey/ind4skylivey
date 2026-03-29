@@ -1,0 +1,46 @@
+name: Update Profile Banner
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  push:
+    branches: [ "main", "master" ]
+  workflow_dispatch:
+
+jobs:
+  update-banner:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # required to push changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies (none, using core only)
+        run: echo "No external deps"
+
+      - name: Generate banner.svg from template
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: "ind4skylivey"
+        run: |
+          node scripts/update-banner.js
+
+      - name: Commit and push changes if any
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add generated/banner.svg
+            git commit -m "chore: update profile banner [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
