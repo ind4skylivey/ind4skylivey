@@ -25,19 +25,19 @@
 
   <g transform="translate(55, 130)">
     <text class="stat-label">★ Stars</text>
-    <text x="140" class="stat-value">159</text>
+    <text x="140" class="stat-value">158</text>
 
     <text class="stat-label" x="280"> Repos</text>
-    <text x="410" class="stat-value">47</text>
+    <text x="410" class="stat-value">39</text>
 
     <text class="stat-label" x="540">⑂ Forks</text>
     <text x="670" class="stat-value">15</text>
 
     <text class="stat-label" x="820">&lt;/&gt; Top 3</text>
     <text x="970" class="stat-value">
-      <tspan id="lang1">Rust</tspan>
+      <tspan id="lang1">Shell</tspan>
       <tspan> · </tspan>
-      <tspan id="lang2">Shell</tspan>
+      <tspan id="lang2">Rust</tspan>
       <tspan> · </tspan>
       <tspan id="lang3">Python</tspan>
     </text>
