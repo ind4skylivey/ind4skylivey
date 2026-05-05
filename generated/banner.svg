@@ -28,7 +28,7 @@
     <text x="140" class="stat-value">173</text>
 
     <text class="stat-label" x="280"> Repos</text>
-    <text x="410" class="stat-value">39</text>
+    <text x="410" class="stat-value">38</text>
 
     <text class="stat-label" x="540">⑂ Forks</text>
     <text x="670" class="stat-value">17</text>
@@ -39,7 +39,7 @@
       <tspan> · </tspan>
       <tspan id="lang2">Shell</tspan>
       <tspan> · </tspan>
-      <tspan id="lang3">Python</tspan>
+      <tspan id="lang3">Other</tspan>
     </text>
   </g>
 
