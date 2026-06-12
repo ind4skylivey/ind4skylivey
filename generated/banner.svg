@@ -28,16 +28,16 @@
     <text x="140" class="stat-value">204</text>
 
     <text class="stat-label" x="280"> Repos</text>
-    <text x="410" class="stat-value">38</text>
+    <text x="410" class="stat-value">37</text>
 
     <text class="stat-label" x="540">⑂ Forks</text>
     <text x="670" class="stat-value">18</text>
 
     <text class="stat-label" x="820">&lt;/&gt; Top 3</text>
     <text x="970" class="stat-value">
-      <tspan id="lang1">Rust</tspan>
+      <tspan id="lang1">Shell</tspan>
       <tspan> · </tspan>
-      <tspan id="lang2">Shell</tspan>
+      <tspan id="lang2">Rust</tspan>
       <tspan> · </tspan>
       <tspan id="lang3">Other</tspan>
     </text>
