@@ -25,7 +25,7 @@
 
   <g transform="translate(55, 130)">
     <text class="stat-label">★ Stars</text>
-    <text x="140" class="stat-value">220</text>
+    <text x="140" class="stat-value">221</text>
 
     <text class="stat-label" x="280"> Repos</text>
     <text x="410" class="stat-value">31</text>
