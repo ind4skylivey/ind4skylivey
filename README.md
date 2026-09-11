@@ -1,5 +1,4 @@
-
-<img width="1024" height="799" alt="image0" src="https://github.com/user-attachments/assets/b23c4ab6-3362-4209-82bb-f254f350a480" />
+<img width="1024" height="799" alt="banner" src="https://github.com/user-attachments/assets/b23c4ab6-3362-4209-82bb-f254f350a480" />
 
 <h1 align="center">ind4skylivey</h1>
 
@@ -18,59 +17,45 @@
 
 ## About
 
-I build the tools I need. When they don't exist, I write them from scratch - usually in Rust, sometimes in C, always close to the metal.
+I build the tools I need. When they don't exist, I write them from scratch — usually in Rust, sometimes in C, always close to the metal.
 
-Currently contributing to [@S1b-Team](https://github.com/S1b-Team) - security tooling & research.
+Currently contributing to [@S1b-Team](https://github.com/S1b-Team) — security tooling & research.
 
-## 🚀 Featured Project
+## Featured
 
-<img width="1536" height="1024" alt="425252" src="https://github.com/user-attachments/assets/50521d7f-0acf-43ab-b7ed-3cd6b1f51062" />
+<img width="1536" height="1024" alt="int3rceptor" src="https://github.com/user-attachments/assets/50521d7f-0acf-43ab-b7ed-3cd6b1f51062" />
 
-<a href="https://github.com/S1b-Team/int3rceptor"><strong>int3rceptor</strong></a>
-A next-generation HTTP/HTTPS intercepting proxy engineered in Rust and Vue.js, designed for precision debugging, offensive security workflows, and deep traffic inspection.
+**[int3rceptor](https://github.com/S1b-Team/int3rceptor)** — HTTP/HTTPS intercepting proxy in Rust + Vue 3. Built for traffic inspection, replay, and offensive security workflows (Intruder, Repeater, rule engine, WebSockets).
 
-Built for professionals who demand speed, clarity, and control, int3rceptor blends high-performance network interception with a modern, reactive UI—offering a powerful environment for analyzing, modifying, and replaying web traffic with confidence.
+[Explore the project →](https://github.com/S1b-Team/int3rceptor)
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](https://github.com/S1b-Team/int3rceptor/blob/main/interceptor/LICENSE)
-[![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Vue](https://img.shields.io/badge/vue-3.4%2B-green.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+### Also shipping
 
-</div>
-
-> **int3rceptor** is a high-performance security testing platform designed to rival commercial tools.
->
-> ⚡ **Blazing Fast**: Powered by Rust's async engine.
-> 🎨 **Modern UI**: Real-time Vue 3 interface.
-> 🛠️ **Powerful**: Intruder, Repeater, Rule Engine, and WebSocket interception.
->
-> [**Explore the Project »**](https://github.com/S1b-Team/int3rceptor)
+- [**0ptiscaler4linux**](https://github.com/ind4skylivey/0ptiscaler4linux) — OptiScaler installer for Linux gaming (FSR4 / XeSS / DLSS)
+- [**affinity-cli**](https://github.com/ind4skylivey/affinity-cli) — one-command Affinity install on Linux
+- [**matteria-track**](https://github.com/ind4skylivey/matteria-track) — Rust CLI time tracker with themes, sync & pomodoro
 
 ## Stack
 
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-%23525252.svg?style=flat&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" />
 </p>
 
-**Tools & Platforms**
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghidra-00C853?style=flat&logo=ghidra" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Podman-%23892CA0.svg?style=flat&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tmux-%231BB91F.svg?style=flat&logo=tmux&logoColor=white" />
 </p>
 
 **Systems**
@@ -79,10 +64,9 @@ Built for professionals who demand speed, clarity, and control, int3rceptor blen
   <img src="https://img.shields.io/badge/Arch_Linux-%231793d1.svg?style=flat&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=flat&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/BlackArch-%23000000.svg?style=flat&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ind4skylivey/ind4skylivey/main/generated/banner.svg?sanitize=true" width="100%" alt="GitHub telemetry banner" />
