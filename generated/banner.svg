@@ -25,10 +25,10 @@
 
   <g transform="translate(55, 130)">
     <text class="stat-label">★ Stars</text>
-    <text x="140" class="stat-value">222</text>
+    <text x="140" class="stat-value">224</text>
 
     <text class="stat-label" x="280"> Repos</text>
-    <text x="410" class="stat-value">28</text>
+    <text x="410" class="stat-value">29</text>
 
     <text class="stat-label" x="540">⑂ Forks</text>
     <text x="670" class="stat-value">30</text>
