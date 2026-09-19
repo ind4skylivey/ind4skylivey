@@ -21,6 +21,8 @@ I build the tools I need. When they don't exist, I write them from scratch — u
 
 Currently contributing to [@S1b-Team](https://github.com/S1b-Team) — security tooling & research.
 
+**Skills & projects hub:** [gist — skills · projects · desktop](https://gist.github.com/ind4skylivey/b3abd2a59d2341deb1a81acb4cc9b2db)
+
 ## Featured
 
 <img width="1536" height="1024" alt="int3rceptor" src="https://github.com/user-attachments/assets/50521d7f-0acf-43ab-b7ed-3cd6b1f51062" />
