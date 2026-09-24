@@ -18,7 +18,7 @@
   <rect width="1280" height="260" rx="18" fill="url(#bg)" />
 
   <g transform="translate(55, 65)">
-    <text id="gh-name" class="name">Беле Нуар Флеминг</text>
+    <text id="gh-name" class="name">เบเลน เดลล่า รีวา ฟเลมมิง</text>
     <text y="30" class="role">Security Engineer · Network &amp; CLI Systems Builder</text>
     <line x1="0" y1="46" x2="610" y2="46" class="line" />
   </g>
