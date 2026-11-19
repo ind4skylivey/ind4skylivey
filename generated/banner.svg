@@ -28,7 +28,7 @@
     <text x="140" class="stat-value">231</text>
 
     <text class="stat-label" x="280"> Repos</text>
-    <text x="410" class="stat-value">32</text>
+    <text x="410" class="stat-value">33</text>
 
     <text class="stat-label" x="540">⑂ Forks</text>
     <text x="670" class="stat-value">35</text>
@@ -39,7 +39,7 @@
       <tspan> · </tspan>
       <tspan id="lang2">Rust</tspan>
       <tspan> · </tspan>
-      <tspan id="lang3">JavaScript</tspan>
+      <tspan id="lang3">CSS</tspan>
     </text>
   </g>
 
